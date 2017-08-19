@@ -8,7 +8,7 @@ The third shader allows you have a mesh appear/disappear with a burn effect.
 
 ## Setup
 
-Download the package from the Releases page and import it into your Unity project.
+Download the package from the [Releases](https://github.com/Shealynntate/Pixel-Burn-Effect/releases/tag/v1.0) and import it into your Unity project.
 
 There isn't much to setup, reference the <i>Demo</i> scene provided to see each effect applied to an object.
 
