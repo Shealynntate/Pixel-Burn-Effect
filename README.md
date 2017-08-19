@@ -18,3 +18,4 @@ Shader parameters exposed in the editor should give you full control over each e
 
 ## License
 
+[MIT](https://github.com/Shealynntate/Pixel-Burn-Effect/blob/master/LICENSE)
