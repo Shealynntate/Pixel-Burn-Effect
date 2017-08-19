@@ -4,7 +4,9 @@ A package of 3 variations of a pixel burn effect made with Unity shaders.
 The first two shaders add a burn effect to sprites as well as 3D meshes. 
 The third shader allows you have a mesh appear/disappear with a burn effect.
 
-![Demo Gif](http://i.imgur.com/wpRVb7L.gif)
+![](http://i.imgur.com/pfNK6om.gif)
+![](http://i.imgur.com/fZe9YAk.gif)
+![](http://i.imgur.com/Aq8aSDP.gif)
 
 ## Setup
 
